@@ -1,0 +1,9 @@
+user-agent: Googlebot
+Disallow: 
+
+user-agent: *
+Disallow: 
+
+
+
+sitemap: https://www.lmpersonaltraining.co.uk/sitemap.xml
